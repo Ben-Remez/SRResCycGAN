@@ -67,3 +67,6 @@ In the image below you can find the results for the Super Resolution task perfor
 In the image below you can find the results for the attempted fix of the rotated license plate image + the super resolution task. We can see that the super resolution task was done successfully but sadly, the model did not fix the distortion. 
 
 ![The visual results of the super resolution task plus the distortion fix on our trained model.](images/SR_With_Distortion_Results.png)
+
+## Project Poster
+![The poster presenting the main parts of the project](images/Poster.jpg)
