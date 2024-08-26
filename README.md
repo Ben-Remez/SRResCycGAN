@@ -14,7 +14,7 @@ You can find the powerpoint presentations that conclude both parts in the [Prese
 In our experiment process we ran training of the article's code taken from the official Git (link below) and compared the results with the results of our trained model. 
 Article code Git: https://github.com/RaoUmer/SRResCycGAN?tab=readme-ov-file
 
-The development of the model was done using google colab and the [notebooks](Notebooks) can be found in this repository. 
+The development of the model was done using google colab and the notebooks can be found in the [Notebooks](Notebooks) folder in this repository. 
 Please note that the model is big and requires many resources to run the training as it is configured in the notebooks. We used colab pro+ in order to run the training of the model on the A100 GPU.
 
 We also added an src folder with adaptations to the code for anyone who wishes to use it in other environments. 
